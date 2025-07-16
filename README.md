@@ -40,7 +40,7 @@ Install via `conda`:
 conda create -n mri-env python=3.9
 conda activate mri-env
 pip install torchio nibabel matplotlib numpy
-
+```
 
 ## 📊 Example Usage
 ```python
