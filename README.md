@@ -17,6 +17,7 @@ project/
 │   ├── preprocess.py       # Rescaling and resizing transformations
 │   └── visualize.py        # MRI slice plotting tools
 └── README.md
+```
 
 ## 🔧 Features
 
